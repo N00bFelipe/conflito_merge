@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("bora bill");
+    printf("boa muie do bill");
     
     return 0; 
 }
